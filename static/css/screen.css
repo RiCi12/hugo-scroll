@@ -200,10 +200,6 @@ a.btn {
   font-weight: lighter;
 }
 
-a.btn:hover {
-  background: #86c440;
-}
-
 #header-arrow {
   font-size: 140px;
   margin: -10px auto;
